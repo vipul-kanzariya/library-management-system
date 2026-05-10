@@ -1,0 +1,29 @@
+{
+    "books": [
+        {
+            "id": "1",
+            "name": "To Kill a Mockingbird",
+            "author": "F. Scott Fitzgerald",
+            "genre": "Fiction",
+            "price": "10.99",
+            "publisher": "Scribner"
+        },
+        {
+            "id": "2",
+            "name": "1984",
+            "author": "George Orwell",
+            "genre": "Dystopian",
+            "price": "8.99",
+            "publisher": "Secker & Warburg"
+        },
+        {
+            "id": "3",
+            "name": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "genre": "Fiction",
+            "price": "12.99",
+            "publisher": "Scribner"
+        }
+      
+    ]
+}

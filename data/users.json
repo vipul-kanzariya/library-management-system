@@ -1,0 +1,46 @@
+{
+    "users":[
+        {
+            "id":"1",
+            "name":"John Doe",
+            "surname":"Doe",
+            "email":"john.doe@example.com",
+            "issuedBook" :"1",
+            "issuedDate":"2024-01-01",
+            "returnDate":"2024-01-15",
+            "subscriptionType":"Premium",
+            "subscriptionDate":"2024-01-01"
+        },
+        {
+            "id":"2",
+            "name":"Jane Smith",
+            "surname":"Smith",
+            "email":"jane.smith@example.com",
+            "issuedBook" :"2",
+            "issuedDate":"2024-01-01",
+            "returnDate":"2024-01-15",
+            "subscriptionType":"Premium",
+            "subscriptionDate":"2024-01-01"
+        },
+        {
+             "id":"3",
+            "name":"Bob Johnson",
+            "surname":"Johnson",
+            "email":"bob.johnson@example.com",
+            "issuedBook" :"3",
+            "issuedDate":"2024-01-01",
+            "returnDate":"2024-01-15",
+            "subscriptionType":"Premium",
+            "subscriptionDate":"2024-01-01"
+        },
+        {
+            "id":"4",
+            "name":"Alice Brown",
+            "surname":"Brown",
+            "email":"alice.brown@example.com",
+            "subscriptionType":"Premium",
+            "subscriptionDate":"2024-01-01"
+        }
+    ]
+
+}
