@@ -20,7 +20,7 @@
             "issuedDate":"2024-01-01",
             "returnDate":"2024-01-15",
             "subscriptionType":"Premium",
-            "subscriptionDate":"2024-01-01"
+            "subscriptionDate":"2026-08-01"
         },
         {
              "id":"3",
@@ -30,8 +30,8 @@
             "issuedBook" :"3",
             "issuedDate":"2024-01-01",
             "returnDate":"2024-01-15",
-            "subscriptionType":"Premium",
-            "subscriptionDate":"2024-01-01"
+            "subscriptionType":"Basic",
+            "subscriptionDate":"2026-04-01"
         },
         {
             "id":"4",
@@ -39,7 +39,7 @@
             "surname":"Brown",
             "email":"alice.brown@example.com",
             "subscriptionType":"Premium",
-            "subscriptionDate":"2024-01-01"
+            "subscriptionDate":"2026-01-01"
         }
     ]
 
