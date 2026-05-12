@@ -1,5 +1,9 @@
 const express = require('express');
 
+//importing the routers
+const usersRouter = require('./routes/users');
+const booksRouter = require('./routes/books');
+
 const app = express();
 
 const PORT = 5000
@@ -11,6 +15,10 @@ app.get('/',(req,res)=>{
         message : "This is a Home page !"
     })
 })
+app.use('/users',usersRouter);
+app.use('/books',booksRouter);
+
+
 
 // app.all('*',(req,res)=>{
 //     res.status(500).json({

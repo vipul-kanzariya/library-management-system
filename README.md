@@ -47,6 +47,6 @@ npm init
 npm i express
 npm i nodemon --save-dev
 
-npm run dev
+npm run dev --> To start the application
 
 To restore node module and package-lock.json --> npm i/npm install
